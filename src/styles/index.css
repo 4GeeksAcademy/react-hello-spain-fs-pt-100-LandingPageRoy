@@ -9,3 +9,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.footer1{
+    height: 80px;
+}
+
+
+.Principal{
+    display: grid;
+grid-template-rows: auto 1fr auto;
+    
+    min-height: 100dvh;
+}

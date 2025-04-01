@@ -7,7 +7,7 @@ import Footer from './footer.jsx';
 //create your first component
 const Home = () => {
 	return (
-		<div>
+		<div className="Principal">
             
 			<Navbar />
 			
